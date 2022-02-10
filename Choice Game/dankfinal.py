@@ -2,8 +2,6 @@ import random as rand
 from datetime import datetime
 import time
 
-# CO AUTHOR OF CODE IS ETHAN EVEREST AND LP
-
 
 # TODO finish the help sort of text thing
 # TODO add a message when saving/loading
